@@ -1,0 +1,31 @@
+{
+  "bankroll": 0.428,
+  "positions": [],
+  "closedTrades": [
+    {
+      "id": "BAD_SOL_ENTRY",
+      "token": "SOLANA",
+      "entryPrice": 145,
+      "exitPrice": 82.66,
+      "size": 0.007,
+      "pnl": -0.43638,
+      "reason": "stale_entry_closed",
+      "closedAt": 1744496000
+    },
+    {
+      "id": "1776030944629-9evib7",
+      "token": "SOL",
+      "entryPrice": 82.67,
+      "exitPrice": 81.49,
+      "size": 0.40320954800209674,
+      "pnl": -0.475787,
+      "reason": "manual_close_before_delete",
+      "closedAt": 1776037200
+    }
+  ],
+  "cycleCount": 0,
+  "drawdownPct": 0,
+  "peakBankroll": 0.428,
+  "createdAt": 1744490400000,
+  "lastUpdated": 1776037201821
+}

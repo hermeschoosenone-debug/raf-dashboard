@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@polymarket/clob-client": "^5.8.1",
+    "@raydium-io/raydium-sdk-v2": "^0.2.39-alpha",
+    "@solana/web3.js": "^1.98.4",
+    "axios": "^1.15.0",
+    "bybit-api": "^4.6.1",
+    "ccxt": "^4.5.48",
+    "node-fetch": "^3.3.2"
+  }
+}
