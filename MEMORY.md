@@ -413,6 +413,7 @@ After every cycle:
 | 2026-04-13 | **Cohen Data-Driven** | Order flow + sector specialization from Steve Cohen | Sector rotation, institutional | ACTIVE |
 | 2026-04-13 | **AQR 5-Factor Model** | Momentum + Value + Carry + Quality + Defensive from Cliff Asness | All markets | ACTIVE |
 | 2026-04-13 | **Vince Position Sizing** | Kelly Criterion + Optimal f — mandatory math | All trades | ACTIVE |
+| 2026-04-13 | **ZIIX Ultimate Trading System** | Encyclopedia: HFT, Options, Perps, On-Chain, Order Flow, Arbitrage from 14 elite traders | ALL strategies combined | ACTIVE |
 | 2026-04-12 | **Regime Detection: Low-Volatility Consolidation** | Markets spend 60-70% of time range-bound | Major assets <1% daily movement | New |
 | 2026-04-12 | **Volume Spike Confirmation** | Volume confirms trend strength | BTC volume <$20B + price >2% move | New |
 | 2026-04-12 | **Polymarket Low-Liquidity Edge** | Low-volume markets have wider spreads, creating better entry exit for informed traders. | When market liquidity is below $5K and you have thesis based on external data. | New |
